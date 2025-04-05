@@ -1,0 +1,43 @@
+2025-04-05 14:42:07,899 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-04-05 14:44:15,049 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apigateway:ApiGateway:0.0.1-SNAPSHOT @ /Users/abhishekrajput/Desktop/Hospital Management Project/ApiGateway/pom.xml.
+2025-04-05 14:44:19,018 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:19,043 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:19,053 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/ApiGateway/src/test/resources
+2025-04-05 14:44:20,686 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appointmentservice:AppointmentService:0.0.1-SNAPSHOT @ /Users/abhishekrajput/Desktop/Hospital Management Project/AppointmentService/pom.xml.
+2025-04-05 14:44:21,724 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:21,733 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:21,757 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/AppointmentService/src/test/resources
+2025-04-05 14:44:23,920 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:23,946 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:23,956 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/ApiGateway/src/test/resources
+2025-04-05 14:44:26,255 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:26,267 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:26,273 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/AppointmentService/src/test/resources
+2025-04-05 14:44:28,498 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.authService:AuthService:0.0.1-SNAPSHOT @ /Users/abhishekrajput/Desktop/Hospital Management Project/AuthService/pom.xml.
+2025-04-05 14:44:30,186 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:30,220 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:30,237 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/AuthService/src/test/resources
+2025-04-05 14:44:31,618 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:31,625 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:31,631 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/AuthService/src/test/resources
+2025-04-05 14:44:33,681 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doctorservice:DoctorService:0.0.1-SNAPSHOT @ /Users/abhishekrajput/Desktop/Hospital Management Project/DoctorService/pom.xml.
+2025-04-05 14:44:34,595 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:34,625 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:34,638 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/DoctorService/src/test/resources
+2025-04-05 14:44:36,551 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:36,558 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:36,563 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/DoctorService/src/test/resources
+2025-04-05 14:44:38,632 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.ashokit:PatientService:0.0.1-SNAPSHOT @ /Users/abhishekrajput/Desktop/Hospital Management Project/PatientService/pom.xml.
+2025-04-05 14:44:41,418 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:41,459 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:41,475 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/PatientService/src/test/resources
+2025-04-05 14:44:43,154 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:43,162 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:43,168 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/PatientService/src/test/resources
+2025-04-05 14:44:43,803 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.serviceregistry:ServiceRegistry:0.0.1-SNAPSHOT @ /Users/abhishekrajput/Desktop/Hospital Management Project/ServiceRegistry/pom.xml.
+2025-04-05 14:44:45,481 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:45,518 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:45,539 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/ServiceRegistry/src/test/resources
+2025-04-05 14:44:47,327 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-05 14:44:47,336 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-05 14:44:47,349 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekrajput/Desktop/Hospital Management Project/ServiceRegistry/src/test/resources
