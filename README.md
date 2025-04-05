@@ -123,20 +123,22 @@ Each service is independent, follows single responsibility, and communicates via
 
 ## 🧭 System Architecture Diagram
 
-                        [ React Frontend ]
-                               |
-               ------------------------------
-               |                            |
-       /patient-login               /doctor-login
-               |                            |
-               ↓                            ↓
-       [ API Gateway (Spring Cloud Gateway) - Port 8081 ]
-               |
-    ┌──────────┼────────────────────────────────────────┐
-    |          |                    |                   |
-    ↓          ↓                    ↓                   ↓
+
+```text
+    [ React Frontend ]
+         |
+ -----------------------
+ |                     |
+/patient-login     /doctor-login
+      |                 |
+      ↓                 ↓
+[ API Gateway (Spring Cloud Gateway) - Port 8081 ]
+        |
+  -------------------------------
+  |      |      |      |        |
+  ↓      ↓      ↓      ↓        ↓
 [AuthService] [PatientService] [DoctorService] [AppointmentService]
-   Port: 9095     Port: 9090        Port: 9092           Port: 9091
-      |              |                 |                   |
-      |              |                 |                   |
-[ MySQL DB - Auth ] [ MySQL DB - Patients ] [MySQL - Doctors] [MySQL - Appointments]
+    Port:9095     Port:9090       Port:9092        Port:9091
+
+[MySQL DB - Auth] [MySQL DB - Patients] [MySQL DB - Doctors] [MySQL DB - Appointments]
+```
